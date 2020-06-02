@@ -16,3 +16,8 @@
 //
 //mymap	1250
 //mymap-2
+
+// Old Payon
+payo2 1250
+pa2_in01
+pa2_in02
