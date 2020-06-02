@@ -1,9 +1,9 @@
 server_name: Jobless RO
 wisp_server_name: JRO
 
-start_point: iz_int,18,26:iz_int01,18,26:iz_int02,18,26:iz_int03,18,26:iz_int04,18,26
+start_point: payo2,89,122
 start_point_pre: new_1-1,53,111:new_2-1,53,111:new_3-1,53,111:new_4-1,53,111:new_5-1,53,111
-start_point_doram: lasa_fild01,48,297
+start_point_doram: payo2,89,122
 
 start_items: 1201,1,2:2301,1,16
 start_items_doram: 1681,1,2:2301,1,16
@@ -16,6 +16,6 @@ char_del_option: 1
 
 pincode_enabled: no
 
-default_map: prontera
-default_map_x: 156
-default_map_y: 191
+default_map: payo2
+default_map_x: 89
+default_map_y: 122
