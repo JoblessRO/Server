@@ -1,6 +1,6 @@
 // Client
-area_size: 14
-max_walk_path: 17
+area_size: 28
+max_walk_path: 28
 display_version: no
 
 // Drop
