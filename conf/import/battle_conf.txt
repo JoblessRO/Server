@@ -1,0 +1,3 @@
+area_size: 14
+max_walk_path: 17
+display_version: no
