@@ -1,0 +1,2 @@
+server_name: Jobless Ragnarok Online
+wisp_server_name: JRO
