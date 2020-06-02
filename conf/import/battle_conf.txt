@@ -72,7 +72,7 @@ death_penalty_type: 0
 
 // Guild
 
-guild_exp_limit: 100
+guild_exp_limit: 99
 
 // Homunculus
 
