@@ -8,6 +8,8 @@ start_point_doram: lasa_fild01,48,297
 start_items: 1201,1,2:2301,1,16
 start_items_doram: 1681,1,2:2301,1,16
 
+char_name_option: 0
+
 guild_exp_rate: 100
 char_del_delay: 86400
 char_del_option: 1
