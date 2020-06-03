@@ -4,7 +4,6 @@ max_walk_path: 28
 display_version: no
 
 // Drop
-item_auto_get: yes
 
 item_rate_common: 50000
 item_rate_common_boss: 100
