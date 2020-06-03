@@ -88,11 +88,12 @@ potion_produce_rate: 100
 mob_spawn_delay: 100
 plant_spawn_delay: 100
 boss_spawn_delay: 100
+show_mob_info: 4
 zeny_from_mobs: yes
 
 // Party
 
-party_even_share_bonus: 0
+party_even_share_bonus: 100
 
 // Pet
 
