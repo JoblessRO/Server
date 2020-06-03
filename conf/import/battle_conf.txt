@@ -5,31 +5,31 @@ display_version: no
 
 // Drop
 
-item_rate_common: 50000
+item_rate_common: 5000
 item_rate_common_boss: 100
 item_rate_common_mvp: 100
 item_drop_common_min: 1
 item_drop_common_max: 10000
 
-item_rate_heal: 50000
+item_rate_heal: 5000
 item_rate_heal_boss: 100
 item_rate_heal_mvp: 100
 item_drop_heal_min: 1
 item_drop_heal_max: 10000
 
-item_rate_use: 50000
+item_rate_use: 5000
 item_rate_use_boss: 100
 item_rate_use_mvp: 100
 item_drop_use_min: 1
 item_drop_use_max: 10000
 
-item_rate_equip: 50000
+item_rate_equip: 5000
 item_rate_equip_boss: 100
 item_rate_equip_mvp: 100
 item_drop_equip_min: 1
 item_drop_equip_max: 10000
 
-item_rate_card: 50000
+item_rate_card: 5000
 item_rate_card_boss: 100
 item_rate_card_mvp: 100
 item_drop_card_min: 1
@@ -56,11 +56,11 @@ finding_ore_rate: 100
 
 // Exp
 
-base_exp_rate: 50000
-job_exp_rate: 50000
-multi_level_up: no
-multi_level_up_base: 0
-multi_level_up_job: 0
+base_exp_rate: 10000
+job_exp_rate: 10000
+multi_level_up: yes
+multi_level_up_base: 10
+multi_level_up_job: 10
 exp_bonus_attacker: 25
 mvp_exp_rate: 100
 quest_exp_rate: 100
@@ -86,7 +86,7 @@ potion_produce_rate: 100
 // Monster
 mob_spawn_delay: 100
 plant_spawn_delay: 100
-boss_spawn_delay: 100
+boss_spawn_delay: 50
 show_mob_info: 4
 zeny_from_mobs: yes
 
