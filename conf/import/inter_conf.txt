@@ -1,5 +1,5 @@
 // Level range for sharing within a party
-party_share_level: 15
+party_share_level: 30
 
 // MySQL Login server
 login_server_ip: localhost
